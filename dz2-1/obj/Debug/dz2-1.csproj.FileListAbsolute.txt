@@ -1,0 +1,9 @@
+D:\step\winforms\dz2\001\dz2-1\dz2-1\bin\Debug\dz2-1.exe.config
+D:\step\winforms\dz2\001\dz2-1\dz2-1\bin\Debug\dz2-1.exe
+D:\step\winforms\dz2\001\dz2-1\dz2-1\bin\Debug\dz2-1.pdb
+D:\step\winforms\dz2\001\dz2-1\dz2-1\obj\Debug\dz2-1.csprojResolveAssemblyReference.cache
+D:\step\winforms\dz2\001\dz2-1\dz2-1\obj\Debug\dz2_1.Form1.resources
+D:\step\winforms\dz2\001\dz2-1\dz2-1\obj\Debug\dz2_1.Properties.Resources.resources
+D:\step\winforms\dz2\001\dz2-1\dz2-1\obj\Debug\dz2-1.csproj.GenerateResource.Cache
+D:\step\winforms\dz2\001\dz2-1\dz2-1\obj\Debug\dz2-1.exe
+D:\step\winforms\dz2\001\dz2-1\dz2-1\obj\Debug\dz2-1.pdb
